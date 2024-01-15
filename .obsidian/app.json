@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "!!files"
+}
