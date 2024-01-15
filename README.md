@@ -1,5 +1,7 @@
 # База знаний сообщества "Obsidian Чат"
 
+![](!!files/logo.jpg)
+
 Это база знаний в формате хранилища [Obsidian](http://obsidian.md/) русскоговорящего Telegram-сообщества [Obsidian Чат](https://t.me/obsidian_z).
 
 Онлайн доступ к базе доступен по ссылке https://publish.obsidian.md/obsidian-russian-community/
