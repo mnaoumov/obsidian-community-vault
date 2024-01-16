@@ -9,5 +9,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "!!files",
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true
 }
