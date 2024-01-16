@@ -97,7 +97,7 @@
       "ignore-words": ""
     },
     "blockquote-style": {
-      "enabled": true,
+      "enabled": false,
       "style": "space"
     },
     "convert-bullet-list-markers": {
