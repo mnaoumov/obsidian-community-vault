@@ -14,3 +14,4 @@ title: mnaoumov
   - [Root Folder Context Menu](../Плагины/Root%20Folder%20Context%20Menu.md)
   - [Smart Rename](../Плагины/Smart%20Rename.md)
 - Автор [Шаблона для написания плагинов](https://github.com/mnaoumov/obsidian-plugin-bootstrap/)
+- Автор статьи [Perfect Notes or My Journey to Obsidian](https://mnaoumov.wordpress.com/2022/05/08/perfect-notes-or-my-journey-to-obsidian/) (English)
