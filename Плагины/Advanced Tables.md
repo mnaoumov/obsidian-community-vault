@@ -1,10 +1,14 @@
+---
+title: Advanced Tables
+---
+
 # Advanced Tables
 
 ## Установка
 
 ### Ссылка на ручную установку
 
-https://github.com/tgrosinger/advanced-tables-obsidian/
+<https://github.com/tgrosinger/advanced-tables-obsidian/>
 
 ### Автоматическая установка
 

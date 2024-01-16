@@ -1,5 +1,9 @@
+---
+title: TagFolder
+---
+
 # TagFolder
 
-https://github.com/vrtmrz/obsidian-tagfolder/
+<https://github.com/vrtmrz/obsidian-tagfolder/>
 
 Show tags as folder.

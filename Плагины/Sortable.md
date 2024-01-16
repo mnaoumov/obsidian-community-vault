@@ -1,5 +1,9 @@
+---
+title: Sortable
+---
+
 # Sortable
 
-https://github.com/alexandru-dinu/obsidian-sortable/
+<https://github.com/alexandru-dinu/obsidian-sortable/>
 
 Wikipedia-like sortable tables.

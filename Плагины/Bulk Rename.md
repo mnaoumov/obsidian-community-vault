@@ -1,5 +1,9 @@
+---
+title: Bulk Rename
+---
+
 # Bulk Rename
 
-https://github.com/OlegLustenko/obsidian-bulk-rename/
+<https://github.com/OlegLustenko/obsidian-bulk-rename/>
 
 Rename files based on a pattern.

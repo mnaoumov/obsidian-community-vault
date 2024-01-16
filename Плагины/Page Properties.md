@@ -1,5 +1,9 @@
+---
+title: Page Properties
+---
+
 # Page Properties
 
-https://github.com/necauqua/obsidian-page-properties/
+<https://github.com/necauqua/obsidian-page-properties/>
 
 Add page properties similar to Logseq.
