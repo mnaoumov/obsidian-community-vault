@@ -8,5 +8,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "!!files"
+  "attachmentFolderPath": "!!files",
+  "promptDelete": false
 }
