@@ -1,5 +1,9 @@
+---
+title: Zoom
+---
+
 # Zoom
 
-https://github.com/vslinko/obsidian-zoom/
+<https://github.com/vslinko/obsidian-zoom/>
 
 Zoom into heading and lists.

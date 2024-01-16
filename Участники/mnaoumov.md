@@ -1,6 +1,7 @@
 ---
 aliases:
   - Михаил Наумов
+title: mnaoumov
 ---
 
 # mnaoumov
