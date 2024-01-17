@@ -12,4 +12,4 @@ Easily install a beta version of a plugin for testing.
 
 BRAT - Beta Reviewers Auto-update Tester
 
-Плагин для установки других плагинов для Obsidian, которых пока нет в официальном реестре
+Плагин для установки и поддержки экспериментальных плагинов, которых ещё нет в списке плагинов сообщества внутри `Obsidian`.
