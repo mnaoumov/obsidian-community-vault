@@ -16,7 +16,7 @@ title: Editing Toolbar
 
 ## Краткое описание
 
-The Editing Toolbar is modified from cmenu, which provides more powerful customization settins and has many built-in aditing commands to be a MS Word-like toolbar editing experience
+The Editing Toolbar is modified from CMenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience
 
 Плагин, с одной стороны облегчающий "вхождение" для новичков, так как позволяет вывести панель с кнопками форматирования текста, как в офисных программах, а с другой стороны позволяет добавлять любые функции программы на эту панель.
 
@@ -41,7 +41,7 @@ The Editing Toolbar is modified from cmenu, which provides more powerful customi
 
 ![](../!!files/Editing%20Toolbar-1.png)
 
-- `Editing Toolbar aesthtic` меняет внешний вид панели (`default` - с обводкой, `glass` - прозрачный, `tiny` - с заливкой).
+- `Editing Toolbar aesthetic` меняет внешний вид панели (`default` - с обводкой, `glass` - прозрачный, `tiny` - с заливкой).
 - `Editing Toolbar position` - выбирает положение панели: `top` - вверху, `following` - панель привязана к курсору мыши и появляется при выделении текста, `fixed` - панель отображается внизу экрана.
 - `Editing Toolbar Auto-hide` скрывает панель до наведения.
 
