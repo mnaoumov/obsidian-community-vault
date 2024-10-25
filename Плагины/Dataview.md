@@ -13,6 +13,7 @@ Advanced queries over your vault for the data-obsessed.
 - [Документация](https://blacksmithgu.github.io/obsidian-dataview/)
 - [Obsidian Example Vault for Dataview Queries](https://github.com/s-blu/obsidian_dataview_example_vault)
 - [Basic Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
+- [ChatGPT - DataviewJS (Obsidian) Snippets](https://chatgpt.com/g/g-JuOzi3RXI-dataviewjs-obsidian-snippets)
 
 ## Пагинация
 
