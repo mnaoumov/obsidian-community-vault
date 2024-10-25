@@ -1,0 +1,30 @@
+{
+  "name": "obsidian-community-vault",
+  "version": "1.0.0",
+  "description": "База знаний сообщества \"Obsidian Чат\"",
+  "main": "index.js",
+  "scripts": {
+    "spellcheck": "cspell . --no-progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaoumov/obsidian-community-vault.git"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidianmd",
+    "vault",
+    "community",
+    "russian"
+  ],
+  "author": "mnaoumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnaoumov/obsidian-community-vault/issues"
+  },
+  "homepage": "https://github.com/mnaoumov/obsidian-community-vault#readme",
+  "devDependencies": {
+    "cspell": "^8.15.4",
+    "cspell-dict-ru_ru": "^1.4.0"
+  }
+}
