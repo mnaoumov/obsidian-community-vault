@@ -19,7 +19,7 @@ Advanced queries over your vault for the data-obsessed.
 
 Используя такую функцию можно добиться пагинации (разбиения на страницы)
 
-![](../!!files/dataview-pagination.png)
+![](<../!!files/dataview-pagination.png>)
 
 ````markdown
 ```dataviewjs
