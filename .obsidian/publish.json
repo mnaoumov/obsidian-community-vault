@@ -4,5 +4,7 @@
   "included": [
     "/"
   ],
-  "excluded": []
+  "excluded": [
+    "node_modules"
+  ]
 }
