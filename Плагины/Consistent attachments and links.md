@@ -1,8 +1,8 @@
 ---
-title: Consistent attachments and links
+title: Consistent Attachments and Links
 ---
 
-# Consistent attachments and links
+# Consistent Attachments and Links
 
 <https://github.com/dy-sh/obsidian-consistent-attachments-and-links/>
 
