@@ -15,6 +15,7 @@ title: mnaoumov
   - [Insert Multiple Attachments](<../Плагины/Insert Multiple Attachments.md>)
   - [File Explorer Reload](<../Плагины/File Explorer Reload.md>)
   - [Frontmatter Markdown Links](<../Плагины/Frontmatter Markdown Links.md>)
+  - [New Note Fixer](<../Плагины/New Note Fixer.md>)
   - [Refresh Preview](<../Плагины/Refresh Preview.md>)
   - [Root Folder Context Menu](<../Плагины/Root Folder Context Menu.md>)
   - [Smart Rename](<../Плагины/Smart Rename.md>)
