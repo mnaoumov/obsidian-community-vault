@@ -4,6 +4,8 @@
   "description": "База знаний сообщества \"Obsidian Чат\"",
   "main": "index.js",
   "scripts": {
+    "commit": "cz",
+    "prepare": "husky",
     "spellcheck": "cspell . --no-progress"
   },
   "repository": {
@@ -24,7 +26,13 @@
   },
   "homepage": "https://github.com/mnaoumov/obsidian-community-vault#readme",
   "devDependencies": {
+    "@commitlint/cli": "^20.0.0",
+    "@commitlint/config-conventional": "^20.0.0",
+    "@commitlint/types": "^20.0.0",
+    "commitizen": "^4.3.1",
     "cspell": "^8.15.4",
-    "cspell-dict-ru_ru": "^1.4.0"
+    "cspell-dict-ru_ru": "^1.4.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.1.7"
   }
 }
