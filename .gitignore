@@ -1,2 +1,4 @@
 /.obsidian/workspace.json
 node_modules
+
+.claude/settings.local.json
