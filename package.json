@@ -2,16 +2,6 @@
   "name": "obsidian-community-vault",
   "version": "1.0.0",
   "description": "База знаний сообщества \"Obsidian Чат\"",
-  "main": "index.js",
-  "scripts": {
-    "commit": "cz",
-    "prepare": "husky",
-    "spellcheck": "cspell . --no-progress"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mnaoumov/obsidian-community-vault.git"
-  },
   "keywords": [
     "obsidian",
     "obsidianmd",
@@ -19,20 +9,29 @@
     "community",
     "russian"
   ],
-  "author": "mnaoumov",
-  "license": "MIT",
+  "homepage": "https://github.com/mnaoumov/obsidian-community-vault#readme",
   "bugs": {
     "url": "https://github.com/mnaoumov/obsidian-community-vault/issues"
   },
-  "homepage": "https://github.com/mnaoumov/obsidian-community-vault#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaoumov/obsidian-community-vault.git"
+  },
+  "license": "MIT",
+  "author": "mnaoumov",
+  "main": "index.js",
+  "scripts": {
+    "commit": "cz",
+    "prepare": "husky",
+    "spellcheck": "cspell . --no-progress"
+  },
   "devDependencies": {
     "@commitlint/cli": "latest",
     "@commitlint/config-conventional": "latest",
     "@commitlint/types": "latest",
-    "commitizen": "latest",
     "cspell": "latest",
     "cspell-dict-ru_ru": "latest",
-    "cz-conventional-changelog": "latest",
+    "czg": "latest",
     "husky": "latest"
   }
 }
