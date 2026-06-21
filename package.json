@@ -29,12 +29,12 @@
     "@commitlint/cli": "^21.0.1",
     "@commitlint/config-conventional": "^21.0.1",
     "@commitlint/types": "^21.0.1",
-    "@vitest/coverage-v8": "^4.1.6",
+    "@vitest/coverage-v8": "^4.1.7",
     "cspell": "^10.0.0",
     "cspell-dict-ru_ru": "^1.4.0",
     "czg": "^1.13.1",
     "husky": "^9.1.7",
     "jsdom": "^29.1.1",
-    "vitest": "^4.1.6"
+    "vitest": "^4.1.7"
   }
 }
