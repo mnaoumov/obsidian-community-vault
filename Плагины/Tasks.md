@@ -4,7 +4,7 @@ title: Tasks
 
 # Tasks
 
-<https://github.com/obsidian-tasks-group/obsidian-tasks>
+<https://community.obsidian.md/plugins/obsidian-tasks-plugin>
 
 Track tasks across your entire vault. Query them and mark them as done wherever you want. Supports due dates, recurring tasks (repetition), done dates, sub-set of checklist items, and filtering.
 

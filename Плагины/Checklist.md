@@ -4,7 +4,7 @@ title: Checklist
 
 # Checklist
 
-<https://github.com/delashum/obsidian-checklist-plugin>
+<https://community.obsidian.md/plugins/obsidian-checklist-plugin>
 
 This plugin consolidates checklists from across files into a single view.
 

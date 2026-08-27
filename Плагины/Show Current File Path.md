@@ -4,6 +4,6 @@ title: Show Current File Path
 
 # Show Current File Path
 
-<https://github.com/ravimashru/obsidian-show-file-path/>
+<https://community.obsidian.md/plugins/obsidian-show-file-path>
 
 Show the full path of the currently open file in the status bar.

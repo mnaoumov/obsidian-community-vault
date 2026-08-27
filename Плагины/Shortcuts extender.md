@@ -4,7 +4,7 @@ title: Shortcuts extender
 
 # Shortcuts extender
 
-<https://github.com/ryjjin/Obsidian-shortcuts-extender/>
+<https://community.obsidian.md/plugins/shortcuts-extender>
 
 Use shortcuts for input special symbols without language switching.
 

@@ -4,6 +4,6 @@ title: Open Related Url
 
 # Open Related Url
 
-<https://github.com/dpickett/open-related-url/>
+<https://community.obsidian.md/plugins/open-related-url>
 
 Opens URLs found in a note's YAML frontmatter.

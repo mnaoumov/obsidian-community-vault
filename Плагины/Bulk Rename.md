@@ -4,6 +4,6 @@ title: Bulk Rename
 
 # Bulk Rename
 
-<https://github.com/OlegLustenko/obsidian-bulk-rename/>
+<https://community.obsidian.md/plugins/obsidian-bulk-rename-plugin>
 
 Rename files based on a pattern.

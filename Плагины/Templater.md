@@ -4,7 +4,7 @@ title: Templater
 
 # Templater
 
-<https://github.com/SilentVoid13/Templater/>
+<https://community.obsidian.md/plugins/templater-obsidian>
 
 Create and use templates.
 

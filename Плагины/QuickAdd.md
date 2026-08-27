@@ -4,7 +4,7 @@ title: QuickAdd
 
 # QuickAdd
 
-<https://github.com/chhoumann/quickadd/>
+<https://community.obsidian.md/plugins/quickadd>
 
 Quickly add new notes or content to your vault.
 

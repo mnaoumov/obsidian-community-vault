@@ -4,7 +4,7 @@ title: Note aliases
 
 # Note aliases
 
-<https://github.com/pulsovi/obsidian-note-aliases/>
+<https://community.obsidian.md/plugins/note-aliases>
 
 Manage aliases of notes in Obsidian.
 
