@@ -4,7 +4,7 @@ title: Quick Switcher++
 
 # Quick Switcher++
 
-<https://github.com/darlal/obsidian-switcher-plus/>
+<https://community.obsidian.md/plugins/darlal-switcher-plus>
 
 Enhanced Quick Switcher, search open panels, and symbols.
 

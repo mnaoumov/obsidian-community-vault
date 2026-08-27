@@ -4,6 +4,6 @@ title: CustomJS
 
 # CustomJS
 
-<https://github.com/saml-dev/obsidian-custom-js/>
+<https://community.obsidian.md/plugins/customjs>
 
 Reuse custom JavaScript across desktop and mobile.

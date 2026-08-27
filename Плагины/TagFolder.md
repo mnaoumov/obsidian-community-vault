@@ -4,6 +4,6 @@ title: TagFolder
 
 # TagFolder
 
-<https://github.com/vrtmrz/obsidian-tagfolder/>
+<https://community.obsidian.md/plugins/obsidian-tagfolder>
 
 Show tags as folder.

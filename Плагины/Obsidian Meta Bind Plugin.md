@@ -4,7 +4,7 @@ title: Obsidian Meta Bind Plugin
 
 # Obsidian Meta Bind Plugin
 
-<https://github.com/mProjectsCode/obsidian-meta-bind-plugin>
+<https://community.obsidian.md/plugins/obsidian-meta-bind-plugin>
 
 A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays (view fields), and buttons.
 

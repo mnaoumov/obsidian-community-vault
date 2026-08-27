@@ -4,7 +4,7 @@ title: Codeblock Customizer
 
 # Codeblock Customizer
 
-<https://github.com/mugiwara85/CodeblockCustomizer/>
+<https://community.obsidian.md/plugins/codeblock-customizer>
 
 Customize your code blocks in editing, and reading mode as well.
 

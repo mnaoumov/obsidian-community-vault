@@ -6,7 +6,7 @@ aliases:
 
 # Obsidian42 - BRAT
 
-<https://github.com/TfTHacker/obsidian42-brat/>
+<https://community.obsidian.md/plugins/obsidian42-brat>
 
 Easily install a beta version of a plugin for testing.
 

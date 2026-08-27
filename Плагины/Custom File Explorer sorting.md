@@ -4,7 +4,7 @@ title: Custom File Explorer sorting
 
 # Custom File Explorer sorting
 
-<https://github.com/SebastianMC/obsidian-custom-sort/>
+<https://community.obsidian.md/plugins/custom-sort>
 
 Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer
 
