@@ -4,6 +4,10 @@ title: Backlink Cache
 
 # Backlink Cache
 
+> [!warning] Устарел
+>
+> С версии 3.0.0 (2026) `Backlink Cache` ничего не делает и только предлагает перейти на свой преемник [`Advanced Metadata Cache`](https://github.com/mnaoumov/obsidian-advanced-metadata-cache), который ведёт тот же кэш обратных ссылок и не только. Репозиторий в архиве, а в каталоге плагинов `Backlink Cache` больше не показывается. Установите `Advanced Metadata Cache` и удалите `Backlink Cache`.
+
 ## Установка
 
 ### Ссылка на ручную установку
