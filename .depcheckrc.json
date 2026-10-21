@@ -8,8 +8,12 @@
     "The key is `ignores`, depcheck's CLI-style rc name; `ignoreMatches` is the API-only spelling and is silently",
     "ignored in this file.",
     "",
+    ".obsidian/plugins - the vendored community-plugin builds; their imports (obsidian, @codemirror/*) are resolved by the Obsidian app, not by this package.",
     "@commitlint/cli - .husky/commit-msg runs it as the `commitlint` binary.",
-    "@commitlint/config-conventional - extended by name (a string in the commitlint config's `extends`), never imported - either directly, or through obsidian-dev-utils' script-utils/commitlint-config, which extends it without declaring it."
+    "@commitlint/config-conventional - extended by name (a string in the commitlint config's `extends`), never imported - commitlint.config.ts names it directly."
+  ],
+  "ignore-patterns": [
+    ".obsidian/plugins"
   ],
   "ignores": [
     "@commitlint/cli",
