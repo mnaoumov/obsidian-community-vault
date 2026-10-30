@@ -1,5 +1,8 @@
 {
   "version": "0.2",
+  "import": [
+    "@cspell/dict-ru_ru/cspell-ext.json"
+  ],
   "ignorePaths": [
     ".obsidian",
     "coverage",
@@ -30,6 +33,7 @@
     "Lucide",
     "Metatable",
     "mnaoumov",
+    "Mononote",
     "Moonbase",
     "Naumov",
     "obsidianmd",
@@ -39,8 +43,10 @@
     "Pisum",
     "soberhacker",
     "Templater",
+    "titlebar",
     "Tweaker",
     "Typora",
+    "VARE",
     "vspace",
     "wikilink",
     "Workflowy",
@@ -60,6 +66,7 @@
     "Клиппер",
     "колауты",
     "коммита",
+    "линтинг",
     "локали",
     "маркдаун",
     "новосозданный",
