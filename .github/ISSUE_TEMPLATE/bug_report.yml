@@ -1,0 +1,70 @@
+name: Bug report
+description: Report a bug and help improve the project
+title: "[BUG] Don't forget to write a meaningful title"
+labels: bug
+assignees: mnaoumov
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug report
+
+        > [!WARNING]
+        >
+        > Incomplete, vague, or poorly described bug reports will be closed.
+        >
+        > The bug report and all attachments must be in English. Exception: the bug is directly related to non-English language usage. Non-English bug reports will be closed.
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description of the bug. Include any relevant details.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Provide a step-by-step description, or a minimal repository that reproduces the bug.
+      placeholder: |
+        1. Run '...'
+        2. Call '...'
+        3. Notice that '...'
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened? Include error messages if available.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Version
+      description: The version, release or commit you used. ⚠️ Must be the latest one. If not, explain why above.
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Environment
+      description: Operating system, and the runtime or tool versions that matter (Node.js, PowerShell, browser, ...).
+      placeholder: Windows 11, Node.js 24
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Attachments
+      description: Screenshots, videos, logs or sample files that help reproduce the bug.
+      placeholder: Drag and drop files here.
+  - type: checkboxes
+    attributes:
+      label: Confirmations
+      description: Ensure the following conditions are met
+      options:
+        - label: I have checked the repository's issues and haven't found any similar bugs
+          required: true
